@@ -23,7 +23,7 @@ p {
     justify-content: space-evenly;
 }
 
-.nav-item img {
+.nav-item > img {
     display: none;
 }
 
